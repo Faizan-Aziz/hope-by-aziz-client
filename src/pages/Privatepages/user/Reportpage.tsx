@@ -5,7 +5,7 @@ import axios from 'axios'
 import { message, Spin } from 'antd'
 import dayjs from 'dayjs'
 import {Table as AntdTable} from 'antd';
-import ReportCard from '../admin/reportcard'
+import ReportCard from '../admin/ReportCard';
 import UserStore from '../../../store/UserStore';
 
 

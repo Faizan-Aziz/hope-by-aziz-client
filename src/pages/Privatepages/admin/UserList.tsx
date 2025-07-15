@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import  { useEffect, useState } from 'react'
 import PageTitle from '../../../componenets/page-title'
 import axios from 'axios'
 import { message } from 'antd'

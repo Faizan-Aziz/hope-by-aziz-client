@@ -1,14 +1,10 @@
-import React from 'react'
 import PageTitle from '../../../componenets/page-title'
-
 import { useState ,useEffect } from 'react'
 import axios from 'axios'
 import { message, Spin, Table } from 'antd'
-import ReportCard from './reportcard'
+import ReportCard from './ReportCard'
 import dayjs from 'dayjs'
 import {Table as AntdTable} from 'antd';
-
-
 
 
 const Adminreport = () => {
